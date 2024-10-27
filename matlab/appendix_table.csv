@@ -1,0 +1,58 @@
+Group,Species,Diameter (m),EI (Nm2),GJ (Nm2)
+Crustacean antennae,Procambarus sp.,0.0004,2.5e-05,6e-06
+Crustacean antennae,Panulirus argus,0.002,0.00583,0.00204
+Crinoid arms,Comactinia echinoptera,0.002,5e-05,1.5e-05
+Crinoid arms,Florometra serratissima,0.002,0.000392,5.1e-05
+Horsetails,Equisetum hyemale,0.005,0.0187,0.00383
+Herbaceous stems,Cucumis sativus,0.004,0.00873,0.00183
+Herbaceous stems,Helianthus annuus,0.005,7.3e-05,5.3e-05
+Herbaceous stems,Lycopersicon esculenium,0.005,0.012,0.00346
+Herbaceous stems,Carex acutiformis,0.005,0.0077,0.000234
+Herbaceous stems,Tulips,0.006,0.0202,0.0024
+Herbaceous stems,Narcissus pseudonarcissus,0.007,0.0119,0.00089
+Leaf petioles,Acer rubrum,0.001,0.000194,7.1e-05
+Leaf petioles,Liquidambar styraciflua,0.002,0.000984,0.000199
+Leaf petioles,Phaseolus vulgaris,0.002,0.000677,0.000143
+Leaf petioles,Populus alba,0.003,7.75e-05,1.5e-05
+Leaf petioles,Populus tremuloides,0.003,1e-05,1e-06
+Tree roots,Pinus taeda,0.05,0.0172,0.79
+Vines,Croton pullei juvenile,0.01,3.3,0.304
+Vines,Cissampelos pareira,0.02,3.63,0.49
+Vines,Cissus sicyoides,0.02,1.15,0.13
+Vines,Forsteronia portoricesis,0.02,1.67,0.83
+Vines,Heteropteris laurifolia,0.02,0.107,4.6
+Vines,Hippocratea volubilis,0.02,4.38,0.68
+Vines,Ipomoea repanda,0.02,3.41,0.31
+Vines,Marcgravia rectiflora,0.02,0.132,0.25
+Vines,Mikania fragilis,0.02,1.48,0.2
+Vines,Paullinia pinnata,0.02,4.71,0.63
+Vines,Rourea surinamensis,0.02,6.48,1.23
+Vines,Schlegelia brachyantha,0.02,4.34,0.96
+Vines,Securidaca virgata,0.02,1.59,0.36
+Vines,Croton pullei mature,0.02,4.87,3.61
+Vines,Vitus rotundifolia,0.046,0.0308,0.0114
+Vines,Wisteria sinensis,0.051,0.0285,0.67
+Gorgonian corals,Ellisella barbadensis,0.004,0.114,0.0216
+Gorgonian corals,Eunicea calyculata,0.004,0.00907,0.00176
+Gorgonian corals,Eunicea clavigera,0.004,0.00794,0.00226
+Gorgonian corals,Gorgonia ventalina,0.004,0.0166,0.0105
+Gorgonian corals,Leptogorgia virgulata,0.004,0.0447,0.0133
+Gorgonian corals,Lophorgogia cardinalis,0.004,0.0635,0.0146
+Gorgonian corals,Muriceopsis flavida,0.004,0.00882,0.00351
+Gorgonian corals,Plexaura flexuosa,0.004,0.0125,0.00201
+Gorgonian corals,Plexaurella grisea,0.004,0.0566,0.00954
+Gorgonian corals,Pseudoplexaura crucis,0.004,0.00731,0.00201
+Gorgonian corals,Pseudopterogorgia bipinnata,0.004,0.0417,0.00904
+Gorgonian corals,Pterogorgia citrina,0.004,0.0195,0.00301
+Gorgonian corals,Swiftia exserta,0.004,0.00882,0.00176
+Tree branches,Brunellia comocladifolia,0.02,0.208,1.65
+Tree branches,Dendropanax arboreus,0.02,0.942,2.81
+Tree branches,Guarea trichilioides,0.02,0.192,1.95
+Tree branches,Inga vera,0.02,0.374,5.47
+Tree branches,Ocotea floribunda,0.02,0.131,4.23
+Tree branches,Juniperus virginiana,0.04,0.0744,0.0168
+Tree branches,Liriodendron tulipifera,0.045,0.00116,0.013
+Tree branches,Acer rubrum,0.047,0.00207,0.025
+Tree branches,Phyllostachys sp.,0.05,0.00803,0.095
+Tree branches,Pinus taeda,0.051,0.00206,0.0319
+Tree branches,Liquidambar styraciflua,0.054,0.00238,0.0319
